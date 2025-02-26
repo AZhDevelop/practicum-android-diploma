@@ -39,8 +39,21 @@
     <string name="team_member_four">Данил Юферев</string>
     <string name="team_member_five">Денис Михеенко</string>
 
+    <!--    Вакансия-->
+    <string name="vacancy_experience">Требуемый опыт</string>
+    <string name="vacancy_description">Описание вакансии</string>
+    <string name="vacancy_responsibility">Обязанности</string>
+    <string name="vacancy_requirements">Требования</string>
+    <string name="vacancy_conditions">Условия</string>
+    <string name="vacancy_skills">Ключевые навыки</string>
+    <style name="no_salary">Зарплата не указана</style>
+
     <!--    Для иконок тулбаров-->
     <string name="share">Поделиться</string>
     <string name="like">Добавить в избранное</string>
+
+    <string name="input_search">Введите запрос</string>
+    <string name="noSalary">Зарплата не указана</string>
+    <string name="noSuchVacancies">Таких вакансий нет</string>
 
 </resources>
